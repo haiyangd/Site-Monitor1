@@ -22,5 +22,4 @@ Options:
                         List of email addresses to send alerts to.
   -f FROM_FILE, --from-file=FROM_FILE
                         Import urls from a text file. Separated by newline.
-                        
    python sitemonitor.py --smtp-hostname=xxxxxx --smtp-port=xxx -u xxxxxx -p xxxxxxxxx -s xxxxxxx -d xxxxx -f tmp.txt
